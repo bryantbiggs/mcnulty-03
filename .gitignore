@@ -1,3 +1,6 @@
+original_data/
+generated_data/
+
 *.mat
 *.dat
 
