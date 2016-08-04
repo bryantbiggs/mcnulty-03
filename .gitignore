@@ -1,6 +1,8 @@
 original_data/
 generated_data/
+models/
 
+*.pkl
 *.png
 *.mat
 *.dat
