@@ -1,7 +1,4 @@
-soccer_kaggle.ipynb
-
-original_data/
-generated_data/
+data/
 models/
 
 *.pkl
