@@ -2,8 +2,6 @@ data/
 models/
 
 *.pkl
-*.png
-*.jpg
 *.mat
 *.dat
 
