@@ -1,5 +1,9 @@
 # Classifying Google Street View House Numbers
 
+[![Code Climate](https://codeclimate.com/github/bryantbiggs/streetview_numbers/badges/gpa.svg)](https://codeclimate.com/github/bryantbiggs/streetview_numbers)
+[![Issue Count](https://codeclimate.com/github/bryantbiggs/streetview_numbers/badges/issue_count.svg)](https://codeclimate.com/github/bryantbiggs/streetview_numbers)
+[![Test Coverage](https://codeclimate.com/github/bryantbiggs/streetview_numbers/badges/coverage.svg)](https://codeclimate.com/github/bryantbiggs/streetview_numbers/coverage)
+
 ### Project Description
 An exploration of supervised classification models and image thresholding techniques to classify house numbers within Google street view images.
 
